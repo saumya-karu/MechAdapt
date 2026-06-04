@@ -1,6 +1,6 @@
 # MechAdapt
 
-We propose *MechAdapt*, a mechanism-aware selective online adaptation framework for multivariate time series forecasting under heterogeneous distribution shifts. The framework consists of three main components:
+We propose *MechAdapt*, a mechanism-aware selective online adaptation framework for time series forecasting under heterogeneous distribution shifts. The framework consists of three main components:
 
 - Mechanism-Aware System Representation
 - Dual-Space Drift Diagnosis
