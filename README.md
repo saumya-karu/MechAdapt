@@ -12,7 +12,7 @@ We propose *MechAdapt*, a mechanism-aware selective online adaptation framework 
 - **PROCEED**: Proactive Model Adaptation
 - **SOLID**: Sample-level Contextualised Adapter
 - **OneNet**: Online Ensembling Network
--  **Naive**: Online using stochastic gradient descend
+-  **GD**: Online learning using stochastic gradient descend
 - **Offline**: No online adaptation.
 
 
